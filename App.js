@@ -3,6 +3,9 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+  // when active debugging set here breackpoint
+  let userName = "jon dou";
+
   return (
     <View style={styles.container}>
       <Text>Hello React Native!</Text>
