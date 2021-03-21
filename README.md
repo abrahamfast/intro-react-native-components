@@ -50,3 +50,21 @@ like this
 - close google developer mode `http://localhost:19000/debugger-ui/`
 
 now you can set breackpoint in own code. let show you in `App.js`
+
+> 04 core components and apis
+> Provides a number of built in Core Components ready to use.
+
+[See more details](https://reactnative.dev/docs/components-and-apis)
+
+here example
+
+```html
+<View>
+  <ActivityIndicator />
+  <button onPress></button>
+  <Text>Hello 2React Native!</Text>
+  <Switch ios_backgroundColor="#3e3e3e" />
+  <input style.input onChangeText="{onChangeText}" />
+  <Image sourc={require('source')}>
+</View>
+```
