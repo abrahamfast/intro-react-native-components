@@ -1,3 +1,7 @@
+### Don't forget God 10,000-hour rule.
+#### repo is slef learning  react native. 
+```Just read the API and core component next try it out. Everything is very easy, just practice more and more.```
+
 # intro-react-native-components
 
 > 01 setup env
@@ -68,3 +72,6 @@ here example
   <Image sourc={require('source')}>
 </View>
 ```
+
+## End.
+```I need to learn fast and complete all the components and APIs. i will continue to work outside the repo.```
